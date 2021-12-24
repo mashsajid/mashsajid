@@ -6,10 +6,10 @@
 ```js
 export default {
   pronouns: 'He' || 'Him',
-  country: 'Taiwan',
+  country: 'Bangladesh',
   technologies:{
-    backEnd: ['nodejs', 'php'],
-    frontEnd: ['javascript', 'jquery', 'vue', 'nuxt', 'quasar', 'electron'],
+    backEnd: ['python', 'php'],
+    frontEnd: ['javascript', 'jquery', 'electron'],
     database: ['mongo','mysql'],
     misc: ['sourcepawn']
   }
