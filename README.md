@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm M4SH</h1>
 <h3 align="center">A wannabe python developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mashsajid&label=Profile%20views&color=0e75b6&style=flat" alt="mashsajid" /> </p>
+![profile views](https://komarev.com/ghpvc/?username=mashsajid)
+
+```js
+export default {
+  pronouns: 'He' || 'Him',
+  country: 'Taiwan',
+  technologies:{
+    backEnd: ['nodejs', 'php'],
+    frontEnd: ['javascript', 'jquery', 'vue', 'nuxt', 'quasar', 'electron'],
+    database: ['mongo','mysql'],
+    misc: ['sourcepawn']
+  }
+}
+```
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashsajid" alt="mashsajid" /></a> </p>
 
