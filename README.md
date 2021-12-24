@@ -16,6 +16,10 @@ export default {
 }
 ```
 
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=3jipwazpl91ie5kv6lroatqis&redirect=true" target="_blank">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=3jipwazpl91ie5kv6lroatqis&cover_image=true" align="left">
+</a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashsajid" alt="mashsajid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_m4sh_sajid" target="blank"><img src="https://img.shields.io/twitter/follow/_m4sh_sajid?logo=twitter&style=for-the-badge" alt="_m4sh_sajid" /></a> </p>
