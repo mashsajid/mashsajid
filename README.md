@@ -10,7 +10,7 @@ export default {
   technologies:{
     backEnd: ['python', 'php'],
     frontEnd: ['javascript', 'jquery', 'electron'],
-    database: ['mongo','mysql'],
+    database: ['mysql'],
     misc: ['sourcepawn']
   }
 }
