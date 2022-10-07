@@ -9,8 +9,8 @@ export default {
   country: 'Bangladesh',
   technologies:{
     backEnd: ['python', 'php', 'nodejs'],
-    frontEnd: ['javascript', 'jquery', 'electron'],
-    framework: ['Symfony', 'Flask', 'Django'],
+    frontEnd: ['javascript', 'jquery'],
+    framework: ['Symfony', 'Flask', 'Django', 'electron'],
     database: ['mysql'],
     misc: ['sourcepawn']
   }
