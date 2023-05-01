@@ -11,7 +11,7 @@ export default {
     backEnd: ['python', 'php', 'nodejs', 'kotlin'],
     frontEnd: ['javascript', 'jquery'],
     framework: ['Symfony', 'Flask', 'Django', 'electron'],
-    database: ['mysql'],
+    database: ['mysql','postgresql'],
     misc: ['sourcepawn']
   }
 }
