@@ -22,12 +22,3 @@ export default {
 [![](https://raw.githubusercontent.com/mashsajid/m4shsajid/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mashsajid/m4shsajid/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mashsajid/m4shsajid/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mashsajid/m4shsajid/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mashsajid/m4shsajid/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nkrgix1d34wa2ygmw3mp4p7pj&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_m4sh_sajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_m4sh_sajid" height="30" width="40" /></a>
-<a href="https://fb.com/mashsajid0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mashsajid0" height="30" width="40" /></a>
-<p align="left"> <a href="https://twitter.com/_m4sh_sajid" target="blank"><img src="https://img.shields.io/twitter/follow/_m4sh_sajid?logo=twitter&style=for-the-badge" alt="_m4sh_sajid" /></a> </p>
-</p>
