@@ -8,7 +8,7 @@ export default {
   pronouns: 'He' || 'Him',
   country: 'Bangladesh',
   technologies:{
-    backEnd: ['python', 'php', 'nodejs', 'kotlin'],
+    backEnd: ['python', 'php', 'nodejs', 'kotlin', 'GO'],
     frontEnd: ['javascript', 'jquery'],
     framework: ['Symfony', 'Flask', 'Django', 'electron'],
     database: ['mysql','postgresql'],
