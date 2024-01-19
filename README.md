@@ -1,5 +1,4 @@
 <h1 align="center">Hi , I'm M4SH</h1>
-<h3 align="center">A wannabe python developer</h3>
 
 ![profile views](https://komarev.com/ghpvc/?username=mashsajid)
 
