@@ -7,11 +7,11 @@ export default {
   pronouns: 'He' || 'Him',
   country: 'Bangladesh',
   technologies:{
-    backEnd: ['python', 'php', 'nodejs', 'kotlin', 'GO'],
-    frontEnd: ['javascript', 'jquery'],
-    framework: ['Symfony', 'Flask', 'Django', 'electron'],
-    database: ['mysql','postgresql'],
-    misc: ['sourcepawn']
+    backEnd: ['Python', 'PHP', 'GO'],
+    frontEnd: ['NextJS'],
+    framework: ['Symfony', 'Flask'],
+    database: ['Mysql', 'Postgresql', 'Supabase'],
+    misc: ['Sourcepawn']
   }
 }
 ```
